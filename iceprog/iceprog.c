@@ -1,7 +1,7 @@
 /*
  *  iceprog -- simple programming tool for FTDI-based Lattice iCE programmers
  *
- *  Copyright (C) 2015  Clifford Wolf <clifford@clifford.at>
+ *  Copyright (C) 2015  Claire Xenia Wolf <claire@clairexen.net>
  *  Copyright (C) 2018  Piotr Esden-Tempski <piotr@esden.net>
  *
  *  Permission to use, copy, modify, and/or distribute this software for any
@@ -549,14 +549,14 @@ static void help(const char *progname)
 	fprintf(stderr, "  programming the flash chip and one zero ohm resistor must be desoldered\n");
 	fprintf(stderr, "  and the FT2232H SI pin must be connected to the iCE SPI_SI pin, as shown\n");
 	fprintf(stderr, "  in this picture:\n");
-	fprintf(stderr, "  http://www.clifford.at/gallery/2014-elektronik/IMG_20141115_183838\n");
+	fprintf(stderr, "  https://github.com/yosyshq/icestorm/blob/master/docs/source/_static/images/icestick.jpg\n");
 	fprintf(stderr, "\n");
 	fprintf(stderr, "Notes for the iCE40-HX8K Breakout Board:\n");
 	fprintf(stderr, "  Make sure that the jumper settings on the board match the selected\n");
 	fprintf(stderr, "  mode (SRAM or FLASH). See the iCE40-HX8K user manual for details.\n");
 	fprintf(stderr, "\n");
 	fprintf(stderr, "If you have a bug report, please file an issue on github:\n");
-	fprintf(stderr, "  https://github.com/cliffordwolf/icestorm/issues\n");
+	fprintf(stderr, "  https://github.com/YosysHQ/icestorm/issues\n");
 }
 
 int main(int argc, char **argv)

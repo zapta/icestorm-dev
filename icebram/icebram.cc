@@ -1,5 +1,5 @@
 //
-//  Copyright (C) 2016  Clifford Wolf <clifford@clifford.at>
+//  Copyright (C) 2016  Claire Xenia Wolf <claire@clairexen.net>
 //  Copyright (C) 2023  Sylvain Munaut <tnt@246tNt.com>
 //
 //  Permission to use, copy, modify, and/or distribute this software for any
