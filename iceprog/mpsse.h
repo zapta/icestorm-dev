@@ -1,7 +1,7 @@
 /*
  *  iceprog -- simple programming tool for FTDI-based Lattice iCE programmers
  *
- *  Copyright (C) 2015  Clifford Wolf <clifford@clifford.at>
+ *  Copyright (C) 2015  Claire Xenia Wolf <claire@clairexen.net>
  *  Copyright (C) 2018  Piotr Esden-Tempski <piotr@esden.net>
  *
  *  Permission to use, copy, modify, and/or distribute this software for any

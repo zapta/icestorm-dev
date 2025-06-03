@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-#  Copyright (C) 2015  Clifford Wolf <clifford@clifford.at>
+#  Copyright (C) 2015  Claire Xenia Wolf <claire@clairexen.net>
 #
 #  Permission to use, copy, modify, and/or distribute this software for any
 #  purpose with or without fee is hereby granted, provided that the above

@@ -1,5 +1,5 @@
 //
-//  Copyright (C) 2015  Clifford Wolf <clifford@clifford.at>
+//  Copyright (C) 2015  Claire Xenia Wolf <claire@clairexen.net>
 //
 //  Based on a reference implementation provided by Mathias Lasser
 //
